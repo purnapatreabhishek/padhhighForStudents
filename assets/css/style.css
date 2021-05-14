@@ -724,7 +724,9 @@ input:focus, textarea:focus {
     background: #fff;
 }
 .course_single .c_thumb img {
-	width: 100%;
+	width: 70%;
+    height: 180px;
+    margin-left: 15%;
 }
 .course_single .course_content {
 	padding: 25px 10px 5px 10px;
@@ -1741,7 +1743,7 @@ input:focus, textarea:focus {
 	background: #fff;
 }
 .blog_thumb a, .blog_thumb a img {
-	width: 100%;
+	width: 60%;
 }
 .blog_single .title {
 	font-size: 22px;
